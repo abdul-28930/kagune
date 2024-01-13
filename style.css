@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+
+#kags {
+    color: white;
+}
+
+#titles {
+    color: white;
+}
+
+.linker {
+    color: white;
+}
+
+.points, .para {
+    color: white;
+}
+
+.para1, .para2, .para3 {
+    display: block;
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 2px;
+    border-radius: 2px;
+    border-style: dotted;
+    border-color: white;
+}
+
+.picu {
+    height: 200px;
+}
